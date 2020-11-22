@@ -1,1 +1,3 @@
-# Python Programming Basic Exercise with Solutions
+# Python Programming Basic Exercises with Solutions
+
+Every basic topic exercises will be updated here
