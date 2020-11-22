@@ -1,4 +1,4 @@
-# Print a hollow box
+# Print a hollow box using *
 
 for i in range(4):
 	for j in range(20):
