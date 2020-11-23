@@ -4,9 +4,7 @@ Every topic's exercises from the book "[A Practical Introduction to Python Progr
 
 ## Chapter 1: Getting Started
 Q1. Print a box like the one below.
-'''
 *******************
 *******************
 *******************
 *******************
-'''
